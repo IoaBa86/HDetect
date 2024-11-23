@@ -1,2 +1,2 @@
 # HDetect
-Human Detection
+Human Detection application using YOLO v11 
